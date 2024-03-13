@@ -9,14 +9,13 @@ p{
     line-height: 1.6;
     font-size: 1.05rem;
     margin: 20px 0;
-    margin-left: 20px;
 }
 
 strong{
     font-weight: bold;
 }
 h1,h2,h3{
-    margin-left: 20px;
+    
     color: #1b5848;
     font-weight: normal;
 }
@@ -45,6 +44,7 @@ h1,h2,h3{
     background-size: cover;
     background-color: #1b4848;
     color: #ffffff;  
+
 }
 
 .ctabox{
@@ -87,7 +87,7 @@ h1,h2,h3{
 .banner__logo{
     float: left;
     margin-top: 20px;
-    margin-left: 20px;
+    /*margin-left: 20px;*/
     width: 100px;
     border-radius: 50%;
 }
